@@ -17,7 +17,7 @@
 ## モデル構築
 今回は以下のようなVAEを構築した。
 ![model](https://github.com/Jumpei-Fujita/mixing_music_by_VAE/blob/master/VAE.png)<br>
-このVAEを128個構築し、それぞれにピッチを割り当てて学習を進めた。以下がそのイメージである。
+このVAEを128個構築し、それぞれにピッチを割り当てて学習を進めた。以下がそのイメージである。<br>
 ![model](https://github.com/Jumpei-Fujita/mixing_music_by_VAE/blob/master/multi-VAE.png)<br>
 
 ## 学習
