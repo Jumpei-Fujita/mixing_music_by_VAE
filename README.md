@@ -28,7 +28,7 @@ VAEはEncoderによって平均と分散が出力され、それらに従う正�
 ![model](https://github.com/Jumpei-Fujita/mixing_music_by_VAE/blob/master/graph.png)
 
 ## 結果
-歌うたいのバラッドの正規分布に従う乱数、渡月橋の正規分布に従う乱数をそれぞれ半分ずつ足した時の結果を以下に示す。
+歌うたいのバラッドの正規分布に従う乱数、渡月橋の正規分布に従う乱数をそれぞれ半分ずつ足した時の結果を以下に示す。<br>
 ![model](https://github.com/Jumpei-Fujita/mixing_music_by_VAE/blob/master/heat50.png)<br>
 
 
