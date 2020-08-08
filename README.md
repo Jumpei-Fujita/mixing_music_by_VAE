@@ -22,7 +22,7 @@
 
 ## 学習
 VAEはEncoderによって平均と分散が出力され、それらに従う正規分布に従う乱数を生成する。その平均と分散を以下のような誤差関数により学習していく。
-![loss](https://github.com/Jumpei-Fujita/mixing_music_by_VAE/blob/master/vaeloss.png)
+![loss](https://github.com/Jumpei-Fujita/mixing_music_by_VAE/blob/master/vaeloss.png)<br>
 最適化手法はAdamを用いた。
 以下は学習の様子である。<br>
 ![model](https://github.com/Jumpei-Fujita/mixing_music_by_VAE/blob/master/graph.png)
